@@ -1,2 +1,6 @@
-# emails_github_304_portfolio_index_a7f3k9
-Personal project showcase index (maintained by Dennis Cooper)
+# Rookline Operations Approval Tracker
+
+Open issues in this repository are pending approval requests from the
+operations team. Each request should use the title `[Approval] <topic>` and
+describe the source repository, the branch and the aggregate CNY total in the
+body.
